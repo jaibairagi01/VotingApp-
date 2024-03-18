@@ -17,6 +17,8 @@ JSON Web Tokens (JWT) for authentication
 <h1>Installation</h1>
 
 1. Clone the repository:
+
+   git clone https://github.com/jaibairagi01/VotingApp-.git
    
 
 <h1>API Endpoints</h1>
