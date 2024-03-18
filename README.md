@@ -1,18 +1,18 @@
 # VotingApp
 Built a Voting app through Nodejs, MongoDB and Expressjs
 
-
 <h1>Voting Application</h1>
 This is a backend application for a voting system where users can vote for candidates. It provides functionalities for user authentication, candidate management, and voting.
 
-Features
-User sign up and login with Aadhar Card Number and password
+<h1>Features</h1>
+<h3>User sign up and login with Aadhar Card Number and password
 User can view the list of candidates
 User can vote for a candidate (only once)
 Admin can manage candidates (add, update, delete)
-Admin cannot vote
-Technologies Used
-Node.js
+Admin cannot vote</h3>
+
+<h1>Technologies Used</h1>
+<h3>Node.js
 Express.js
 MongoDB
-JSON Web Tokens (JWT) for authentication
+JSON Web Tokens (JWT) for authentication</h3>
